@@ -1,6 +1,11 @@
 # Ayushstwt
 
-Hello! I’m Ayush Shrivastava.
-Diligent Backend Developer in Java, Enthusiastic Technology with a Demonstrated history of learning in the information technology and services industry. Skilled in Java Stack, Backend Development and API Development with multiple tools and technologies like Java, Spring, Spring boot, Spring Data JPA , Hibernate , Spring Security, Git and Github, MySQL, MongoDb. Strong information technology professional with Master of Computer Application - MCA focused in Computer Science from Dr. A.P.J. Abdul Kalam Technical University, Lucknow.
+As an enthusiastic Java Developer, I specialize in harnessing the capabilities of Spring Boot to architect robust and scalable applications. My expertise extends to building RESTful APIs that facilitate seamless communication between systems. Leveraging the power of Hibernate, I ensure efficient and effective database operations enhancing the overall performance of applications.
 
-I am passionate about computer science and its application. I am a skilled Backend developer with knowledge of backend engineering. I am a quick learner and a team worker that gets the job done. I can easily capitalize on low-hanging fruits and quickly maximize timely deliverables for real-time schemas.
+In addition to my proficiency in data structures, I have a solid foundation in Spring Security, implementing robust authentication and authorization mechanisms to fortify application
+security. My commitment to writing clean, maintainable code is underscored by the incorporation of design patterns, optimizing the structure and efficiency of software solutions Beyond monolithic architectures, I have a proven track record in designing and implementing Microservices-based solutions. Embracing this paradigm, lf acilitate the development of scalable and
+independently deployable components, contributing to a more agile and resilient system architecture. In this ever-evolving landscape of software development, I am dedicated to continuous learning,
+staying abreast of the latest advancements in Java, Spring Boot, Hibernate, and design patterns. 
+
+My goal is to contribute to innovative projects, pushing the boundaries of what's achievable in Java
+development. Let's connect and explore how my skills and passion for coding can bring value to your projects. Together, we can build robust, scalable, and future-ready applications that make a lasting impact.
