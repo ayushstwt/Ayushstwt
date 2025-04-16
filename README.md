@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Ayush Shrivastava</h1>
-<h3 align="center">Java Backend Developer | Expertise in Spring Boot, Microservices, REST APIs, MySQL AWS, Redis, Kafka and Docker | Agile Practitioner | Author</h3>
+ Hi there 👋  
+I'm **Vikas** from India 🇮🇳  
+👨‍💻 Coder by profession | 🧑‍🏫 Teacher by passion  
+
+---
+
+### 🔭 Currently Working On
+- Java, Spring Boot, Microservices  
+- Docker, Kubernetes, Cloud-Native Applications  
+
+### 💬 Ask Me About
+- Java & Backend Development  
+Feel free to reach out on [Twitter](https://twitter.com/yourhandle)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushstwt&label=Profile%20views&color=0e75b6&style=flat" alt="ayushstwt" /> </p>
 
