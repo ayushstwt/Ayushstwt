@@ -1,16 +1,16 @@
- Hi there 👋  
-I'm **Vikas** from India 🇮🇳  
-👨‍💻 Coder by profession | 🧑‍🏫 Teacher by passion  
+ Hi there   
+I'm **Ayush** from India 🇮🇳  
+Java Backend Developer | Develper Advocate 
 
 ---
 
-### 🔭 Currently Working On
+### Currently Working On
 - Java, Spring Boot, Microservices  
 - Docker, Kubernetes, Cloud-Native Applications  
 
-### 💬 Ask Me About
+### Ask Me About
 - Java & Backend Development  
-Feel free to reach out on [Twitter](https://twitter.com/yourhandle)
+Feel free to reach out on [Twitter](https://twitter.com/ayshriv)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushstwt&label=Profile%20views&color=0e75b6&style=flat" alt="ayushstwt" /> </p>
 
@@ -18,23 +18,11 @@ Feel free to reach out on [Twitter](https://twitter.com/yourhandle)
 
 <p align="left"> <a href="https://twitter.com/ayhriv" target="blank"><img src="https://img.shields.io/twitter/follow/ayhriv?logo=twitter&style=for-the-badge" alt="ayhriv" /></a> </p>
 
-- 🔭 I’m currently working on [memovault](https://github.com/ayushstwt/memovault-api.git)
+- I regularly write articles on [https://dev.to/ayshriv](https://dev.to/ayshriv)
 
-- 🌱 I’m currently learning **Devops**
+- Ask me about **Java,Spring Boot,MySql,Spring Security, Devops**
 
-- 📝 I regularly write articles on [https://dev.to/ayshriv](https://dev.to/ayshriv)
-
-- 💬 Ask me about **Java,Spring Boot,MySql,Spring Security, Devops**
-
-- 📫 How to reach me **ayushstwt@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/11k-YZUyTaqMcHvGjGdmO2fpjHutReby6/view?usp=sharing](https://drive.google.com/file/d/11k-YZUyTaqMcHvGjGdmO2fpjHutReby6/view?usp=sharing)
-
-- ⚡ Fun fact **I think I'm Software Developer**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- How to reach me **ayshriv2k3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
