@@ -9,18 +9,13 @@ Java Backend Developer | Develper Advocate
 - Docker, Kubernetes, Cloud-Native Applications  
 
 ### Ask Me About
-- Java & Backend Development  
-Feel free to reach out on [Twitter](https://twitter.com/ayshriv)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushstwt&label=Profile%20views&color=0e75b6&style=flat" alt="ayushstwt" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushstwt" alt="ayushstwt" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ayhriv" target="blank"><img src="https://img.shields.io/twitter/follow/ayhriv?logo=twitter&style=for-the-badge" alt="ayhriv" /></a> </p>
+- Java & Backend Development
+  
+- Feel free to reach out on [Twitter](https://twitter.com/ayshriv)
 
 - I regularly write articles on [https://dev.to/ayshriv](https://dev.to/ayshriv)
 
-- Ask me about **Java,Spring Boot,MySql,Spring Security, Devops**
+- Ask me about **Java, Spring Boot, Microservices, MySql, Kafka, Spring Security, Devops**
 
 - How to reach me **ayshriv2k3@gmail.com**
 
