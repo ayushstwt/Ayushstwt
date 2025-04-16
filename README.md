@@ -1,6 +1,6 @@
  Hi there   
 I'm **Ayush** from India 🇮🇳  
-Java Backend Developer | Develper Advocate 
+Java Backend Developer | Develper Advocate @mastering_backend
 
 ---
 
