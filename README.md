@@ -1,6 +1,7 @@
- Hi there   
-I'm **Ayush** from India 🇮🇳  
-Java Backend Developer | Develper Advocate @mastering_backend
+# Hi Developers!
+
+I'm a passionate **Java Backend Developer** with expertise in **High-Level and Low-Level Design (HLD/LLD)**, design patterns, and strong problem-solving abilities. Along with my development skills, I’ am a **Developer Advocate**.
+
 
 ---
 
