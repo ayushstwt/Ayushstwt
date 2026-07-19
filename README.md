@@ -6,75 +6,148 @@
 
 ## About
 
-Backend Engineer with 3+ years of experience designing and building scalable, secure, and production-ready applications using Java and the Spring ecosystem.
+Backend Engineer with **3+ years of experience** designing and building scalable, secure, and production-grade backend applications using **Java** and the **Spring ecosystem**.
 
-I specialize in backend architecture, microservices, distributed systems, and cloud-native applications. My experience includes designing REST APIs, building event-driven systems, developing SaaS platforms, integrating payment gateways, and deploying applications on AWS.
-
-My primary focus is on building reliable backend systems that are scalable, maintainable, and aligned with real-world business requirements. I enjoy solving complex engineering challenges involving system design, performance optimization, and distributed architectures.
+I specialize in backend architecture, microservices, distributed systems, cloud-native applications, payment systems, CRM integrations, and AI-powered backend solutions. My focus is on building reliable software that scales while maintaining performance, security, and clean architecture.
 
 ---
 
 ## Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | Java (8, 17 & 21) |
-| **Frameworks** | Spring Boot, Spring Security, Spring Data JPA, Spring AI |
-| **Architecture** | Microservices, Distributed Systems, REST APIs, System Design, High-Level Design (HLD), Low-Level Design (LLD) |
-| **Messaging** | Apache Kafka, RabbitMQ |
-| **Databases** | MySQL, PostgreSQL, MongoDB, Redis |
-| **Cloud & DevOps** | AWS, Azure, Docker, CI/CD |
-| **Security** | OAuth 2.0, JWT |
+### Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
+</p>
 
-## Core Skills
+### Backend & Frameworks
 
-- Java
+<p>
+<img src="https://skillicons.dev/icons?i=spring" height="45"/>
+<img src="https://cdn.simpleicons.org/spring/6DB33F" height="45" title="Spring Security"/>
+<img src="https://cdn.simpleicons.org/spring/6DB33F" height="45" title="Spring Data JPA"/>
+</p>
+
 - Spring Boot
 - Spring Security
 - Spring Data JPA
 - Spring AI
 - REST APIs
 - Microservices
-- Distributed Systems
-- High-Level Design (HLD)
-- Low-Level Design (LLD)
-- System Design
-- Apache Kafka
-- RabbitMQ
-- Redis
-- MySQL
-- PostgreSQL
-- MongoDB
-- Docker
-- AWS
-- Azure
 - OAuth 2.0
 - JWT
-- CI/CD
 
 ---
 
-## What I Do
+### Architecture
 
-- Design and develop scalable backend applications
-- Build production-ready REST APIs
-- Design microservices and distributed systems
-- Develop event-driven architectures using Apache Kafka and RabbitMQ
-- Integrate payment gateways including Stripe, Razorpay, and Cashfree
-- Build subscription billing and SaaS platforms
-- Develop CRM and third-party integrations
-- Optimize application performance using Redis
-- Deploy cloud-native applications on AWS
-- Design secure authentication and authorization systems
-- Follow clean architecture and system design best practices
+- Distributed Systems
+- Event-Driven Architecture
+- High-Level Design (HLD)
+- Low-Level Design (LLD)
+- System Design
+- Multi-Tenant SaaS Architecture
+
+---
+
+### Messaging
+
+<p>
+<img src="https://skillicons.dev/icons?i=kafka" height="45"/>
+<img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="45"/>
+</p>
+
+- Apache Kafka
+- RabbitMQ
+- Amazon SNS
+- Amazon SES
+
+---
+
+### Databases & Caching
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" height="45"/>
+</p>
+
+- MySQL
+- PostgreSQL
+- MongoDB
+- Redis
+- H2 Database
+
+---
+
+### Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker" height="45"/>
+</p>
+
+- AWS (EC2, S3, RDS, SNS, SES)
+- Azure (App Service, Azure SQL, Azure Front Door)
+- Docker
+
+---
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,maven,idea,vscode,postman" height="45"/>
+</p>
+
+- Git
+- GitHub Actions
+- CI/CD
+- Maven
+- IntelliJ IDEA
+- VS Code
+- Postman
+
+---
+
+### AI & Integrations
+
+- Spring AI
+- OpenAI API
+- LLM Integration
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Stripe
+- Razorpay
+- Cashfree
+- Salesforce
+- HubSpot
+- Zoho CRM
+- Pipedrive
+- Firebase
+- MSG91
+- WATI
+
+---
+
+## Professional Experience
+
+- Backend Application Development
+- REST API Development
+- Microservices Architecture
+- Distributed Systems
+- Event-Driven Systems
+- Payment Gateway Integrations
+- Subscription Billing Systems
+- CRM Integrations
+- AI-Powered Backend Applications
+- Cloud-Native Development
+- Secure Authentication & Authorization
+- Performance Optimization
+- Production Support
 
 ---
 
 ## Currently Exploring
 
-- AI Engineering with Spring AI
+- Spring AI
+- AI Agents
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - Advanced System Design
@@ -86,12 +159,21 @@ My primary focus is on building reliable backend systems that are scalable, main
 
 ## Connect
 
-- **Portfolio:** https://ayshriv.dev
-- **GitHub:** https://github.com/ayushstwt
-- **LinkedIn:** https://linkedin.com/in/ayshriv
-- **X (Twitter):** https://x.com/ayshriv
-- **Email:** ayshriv2k3@gmail.com
+**Portfolio**  
+https://ayshriv.dev
+
+**GitHub**  
+https://github.com/ayushstwt
+
+**LinkedIn**  
+https://linkedin.com/in/ayshriv
+
+**X (Twitter)**  
+https://x.com/ayshriv
+
+**Email**  
+ayshriv2k3@gmail.com
 
 ---
 
-*"Building scalable backend systems with Java, Spring Boot, Microservices, and Cloud-Native technologies."*
+> Building scalable backend systems with Java, Spring Boot, Microservices, Distributed Systems, and Cloud technologies.
