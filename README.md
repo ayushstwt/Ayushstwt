@@ -1,4 +1,3 @@
-```markdown
 # Ayush Shrivastava
 
 Backend Engineer | Java | Spring Boot | Microservices | Distributed Systems | Apache Kafka | AWS | System Design (HLD/LLD)
