@@ -6,7 +6,7 @@
 
 ## About
 
-Backend Engineer with **3+ years of experience** designing and building scalable, secure, and production-grade backend applications using Java and the Spring ecosystem.
+Backend Engineer with designing and building scalable, secure, and production-grade backend applications using Java and the Spring ecosystem.
 
 I specialize in backend architecture, microservices, distributed systems, cloud-native applications, payment systems, CRM integrations, and AI-powered backend solutions. My focus is on building reliable software that scales while maintaining performance, security, and clean architecture.
 
