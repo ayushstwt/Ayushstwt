@@ -59,6 +59,6 @@ Advanced System Design, Spring AI, AI Agents, MCP, Kubernetes, and Platform Engi
 - **LinkedIn:** https://linkedin.com/in/ayshriv
 - **X:** https://x.com/ayshriv
 - **AgentWorksHQ:** https://agentworkshq.dev/
-- **Email:** ays hriv2k3@gmail.com
+- **Email:** ayshriv2k3@gmail.com
 
 > Building scalable backend systems with Java, Spring Boot, distributed systems, and AI.
